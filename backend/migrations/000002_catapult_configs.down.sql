@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS catapult_configs;

@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS calculations;
+DROP TABLE IF EXISTS aircraft_configs;
+DROP TABLE IF EXISTS users;
