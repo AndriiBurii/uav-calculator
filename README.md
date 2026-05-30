@@ -2,7 +2,9 @@
 
 A full-stack web application for aerodynamic analysis and launch system design of fixed-wing unmanned aerial vehicles (UAVs). Built for engineers and hobbyists who need fast, accurate calculations for UAV design.
 
-![Calculator](https://i.imgur.com/placeholder-calculator.png)
+<img width="1902" height="944" alt="Screenshot 2026-05-30 130806" src="https://github.com/user-attachments/assets/3aa48be4-3744-4129-b4e7-7ee3591f25c0" />
+<img width="1905" height="943" alt="Screenshot 2026-05-30 130918" src="https://github.com/user-attachments/assets/05b99f8c-23f8-4ce5-bfe5-70bfae7b99c5" />
+
 
 > 🚧 **Work in progress** — core calculator functionality is complete.
 > Authentication and i18n are partially implemented and currently being refined.
